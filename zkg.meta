@@ -1,0 +1,5 @@
+[package]
+description = Filtering of files log to reduce x509 cert file logging.
+tags = log, logging
+script_dir = scripts
+depends = zeek >=4.0
